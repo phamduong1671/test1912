@@ -3,7 +3,7 @@
       <div class="container">
           <div class="row">
               <div class="col">
-              <table class="table table-striped table-inverse table-responsive">
+              <table class="table table-bordered table-striped table-inverse table-responsive">
                 <?php include('config.php');
                    
                     $sql="select * from patient";
